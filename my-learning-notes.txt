@@ -1,0 +1,9 @@
+git init → Start a new repository
+
+git clone <url> → Copy a repo from remote
+
+git status → Check current changes
+
+git add <file> → Stage changes
+
+git commit -m "msg" → Save changes
