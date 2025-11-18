@@ -1,0 +1,55 @@
+Frontend: React.js
+
+Role: Handles the user interface (what users see and interact with)
+
+Features:
+
+Component-based architecture
+
+Dynamic and responsive UI
+
+Virtual DOM for fast rendering
+
+Example: Forms, buttons, dashboards, interactive web pages
+
+2️⃣ Backend: Node.js + Express.js
+
+Node.js
+
+Role: Runs JavaScript on the server-side
+
+Allows building scalable and fast applications
+
+Express.js
+
+Role: Web framework for Node.js
+
+Simplifies API creation, routing, and middleware
+
+Example: Handling login, processing form submissions, managing server logic
+
+3️⃣ Database: MongoDB
+
+Role: Stores application data
+
+Type: NoSQL database (document-oriented, stores data in JSON-like format)
+
+Features:
+
+Flexible schema
+
+Easy to scale horizontally
+
+Works naturally with JavaScript objects (JSON/BSON)
+
+Example: User profiles, posts, product information
+
+How the MERN Stack Works Together
+
+React handles the frontend, sending requests to the server.
+
+Express + Node on the backend processes requests and applies business logic.
+
+MongoDB stores and retrieves the necessary data.
+
+Data flows back to React to display dynamically updated content.
